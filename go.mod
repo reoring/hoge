@@ -1,3 +1,3 @@
-module reoring.dev/hoge
+module github.com/reoring/hoge
 
 go 1.16
